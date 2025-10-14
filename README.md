@@ -8,7 +8,7 @@ Repositório para o Projeto 4 da disciplina de Física para Ciência da Computa�
 
 * **Universidade:** Universidade Estadual de Santa Cruz (UESC)
 * **Matéria:** Física para Ciência da Computação 2025.2
-* **Professor:** Prof. ORLANDO KATIME SANTRICH
+* **Professor:** Prof. Orlando Katime Santrich
 
 ---
 

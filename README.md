@@ -1,4 +1,4 @@
-# Simulação de Sistemas Físicos: Queda Livre
+# Simulação de Sistema Físico: Queda Livre
 
 Repositório para o projeto da disciplina de Física para Ciência da Computação (2025.2) da Universidade Estadual de Santa Cruz (UESC).
 
@@ -28,7 +28,7 @@ O objetivo deste projeto é desenvolver uma simulação computacional para anali
 ### Objetivos:
 
 1.  **Simular um corpo em queda:**
-    * Implementar os modelos matemáticos que descrevem o movimento de um objeto em queda sob a ação da gravidade e sob a ação da resistência do ar (opcional).
+    * Implementar os modelos matemáticos que descrevem o movimento de um objeto em queda sob a ação da gravidade e sob a ação da resistência do ar (se houver).
 2.  **Calcular e mostrar graficamente as energias envolvidas:**
     * Calcular as energias cinética, potencial gravitacional e dissipada (se houver).
     * Gerar gráficos que ilustrem a variação de cada tipo de energia ao longo do tempo.

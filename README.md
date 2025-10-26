@@ -49,7 +49,7 @@ Este comando irá clonar o repositório, criar um ambiente virtual chamado `venv
 **Copie e cole no seu terminal:**
 
 ```bash
-git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook
+git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook Projeto.ipynb
 ```
 
 ### Método 2: Usando Pacotes do Sistema
@@ -59,5 +59,5 @@ Este método assume que você **já possui** o `git`, `python`, `numpy`, `matplo
 **Copie e cole no seu terminal:**
 
 ```bash
-git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook
+git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook Projeto.ipynb
 ```

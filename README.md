@@ -1,6 +1,6 @@
 # Simulação de Sistema Físico: Queda Livre
 
-Repositório para o projeto da disciplina de Física para Ciência da Computação (2025.2) da Universidade Estadual de Santa Cruz (UESC).
+Repositório para um dos projetos da disciplina de Física para Ciência da Computação (2025.2) da Universidade Estadual de Santa Cruz (UESC).
 
 ---
 
@@ -44,7 +44,7 @@ Você pode executar o projeto de duas maneiras. O método com ambiente virtual (
 
 ### Método 1: Com Ambiente Virtual (Recomendado)
 
-Este comando irá clonar o repositório, criar um ambiente virtual chamado `venv`, instalar as dependências (`numpy`, `matplotlib` e `notebook`) dentro dele e, em seguida, iniciar o Jupyter Notebook.
+Este método requer apenas `git` e `python` instalados. O comando a seguir irá clonar o repositório, criar um ambiente virtual (`venv`), instalar as dependências (`numpy`, `matplotlib` e `notebook`) dentro dele e, em seguida, iniciar o Jupyter Notebook.
 
 **Copie e cole no seu terminal:**
 
@@ -59,5 +59,5 @@ Este método assume que você **já possui** o `git`, `python`, `numpy`, `matplo
 **Copie e cole no seu terminal:**
 
 ```bash
-git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook Projeto.ipynb
+git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && jupyter notebook Projeto.ipynb
 ```

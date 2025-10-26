@@ -1,4 +1,4 @@
-# Simulação de Sistemas Físicos: Queda Livre e Mola Oscilante
+# Simulação de Sistemas Físicos: Queda Livre
 
 Repositório para o projeto da disciplina de Física para Ciência da Computação (2025.2) da Universidade Estadual de Santa Cruz (UESC).
 
@@ -32,7 +32,7 @@ O objetivo deste projeto é desenvolver uma simulação computacional para anali
 2.  **Calcular e mostrar graficamente as energias envolvidas:**
     * Calcular as energias cinética, potencial gravitacional e dissipada (se houver).
     * Gerar gráficos que ilustrem a variação de cada tipo de energia ao longo do tempo.
-4.  **Validar a conservação ou não da energia total:**
+3.  **Validar a conservação ou não da energia total:**
     * Analisar os resultados para confirmar que a energia mecânica total se conserva nos sistemas ideais.
     * Mostrar que a energia mecânica total não se conserva na presença de forças dissipativas, validando o princípio da dissipação de energia.
 

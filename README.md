@@ -46,10 +46,16 @@ Você pode executar o projeto de duas maneiras. O método com ambiente virtual (
 
 Este método requer apenas `git` e `python` instalados. O comando a seguir irá clonar o repositório, criar um ambiente virtual (`venv`), instalar as dependências (`numpy`, `matplotlib` e `notebook`) dentro dele e, em seguida, iniciar o Jupyter Notebook.
 
-**Copie e cole no seu terminal:**
+**Copie e cole no seu terminal (Windows/Arch/Fedora):**
 
 ```bash
 git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook Projeto.ipynb
+```
+
+**Para usuários de Debian/Ubuntu/Mint e derivados (usando `python3` explicitamente):**
+
+```bash
+git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && python3 -m venv venv && venv/bin/pip install numpy matplotlib notebook && venv/bin/jupyter notebook Projeto.ipynb
 ```
 
 ### Método 2: Usando Pacotes do Sistema
@@ -60,4 +66,5 @@ Este método assume que você **já possui** o `git`, `python`, `numpy`, `matplo
 
 ```bash
 git clone https://github.com/CarvDev/Projeto-Fisica-UESC.git && cd Projeto-Fisica-UESC && jupyter notebook Projeto.ipynb
+
 ```
